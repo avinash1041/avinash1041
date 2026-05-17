@@ -25,8 +25,10 @@ data infrastructure for **LPL Financial**.
 
 ---
 
-### 📊 GitHub Stats:
-[![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinash1041&show_icons=true&theme=dark)](https://github.com/avinash1041)
+### 📊 Coding Activity:
+- 🟩 **600+ LeetCode** problems solved
+- ⚡ **50+ repositories** on GitHub
+- 🔥 Active contributor — see pinned repos below
 
 ---
 
