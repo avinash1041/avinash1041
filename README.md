@@ -31,4 +31,4 @@ data infrastructure for **LPL Financial**.
 ---
 
 ### 🏆 LeetCode: 650+ Problems Solved
-### 📬 jadhavavinash1041@gmail.com | [LinkedIn][(https://www.linkedin.com/in/avinash-jadhav1041/) | [Portfolio](https://avinash1041.github.io)
+### 📬 jadhavavinash1041@gmail.com | [LinkedIn](https://www.linkedin.com/in/avinash-jadhav1041/) | [Portfolio](https://avinash1041.github.io)
